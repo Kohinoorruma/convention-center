@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.center-btn-warning {
+    background-color: white;
+    padding: 7px 30px;
+}
+
+.album-btn-danger {
+    background-color: #3F87F5;
+    padding: 10px 24px;
+    border: none;
+}
+
+.album-btn-danger:hover {
+    color: black !important;
+}
+
+.fa-arrow-right {
+    padding-left: 15px;
+}
+
+#bg-blue {
+    background-color: #3F87F5;
+    color: white;
+    border-radius: 30px;
+}
+
+#bg-white {
+    background-color: white;
+    color: #3F87F5;
+}
+
+.center-btn-danger {
+    background-color: #eadae4;
+    padding: 15px 30px;
+    border: none;
+    color: #3F87F5;
+}
+
+#blue {
+    background-color: #3F87F5;
+    color: white;
+}
